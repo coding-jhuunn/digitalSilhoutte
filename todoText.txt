@@ -1,0 +1,10 @@
+
+
+todo list
+
+    framework / tech to be used
+    content
+    design
+        section
+            other info
+                pixelart
